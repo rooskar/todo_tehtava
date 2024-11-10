@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+#container {
+  padding: 15px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+.delete-button {
+  margin-left: 16px;
+}
